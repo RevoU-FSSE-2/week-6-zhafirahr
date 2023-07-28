@@ -2,7 +2,8 @@
 # Docker Assignment 
 ## Installation Guide
 <ol>
-  <li>Go to the Docker website: [!link](https://www.docker.com/products/docker-desktop)</li>
+  <li>Go to the Docker website:</li>
+  [!link](https://www.docker.com/products/docker-desktop) 
   <li>Download the Docker Desktop installer for Windows.</li>
 </ol>
 Download the Docker Desktop installer for Windows.
